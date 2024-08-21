@@ -1,0 +1,11 @@
+{
+  "name": "doctor-patient-portal",
+  "version": "1.0.0",
+  "description": "A portal for managing doctor and patient interactions.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

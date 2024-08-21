@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "dev",
+			"path": "doctor-patient-portal",
+			"problemMatcher": [],
+			"label": "npm: dev - doctor-patient-portal",
+			"detail": "next dev"
+		}]
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "doctor-patient-portal",
+			"group": "clean",
+			"problemMatcher": [],
+			"label": "npm: install - doctor-patient-portal",
+			"detail": "install dependencies from package"
+		}
+}
